@@ -1,6 +1,6 @@
 /*
 ===================================================================================================
-💃 𝗤𝘂𝗲𝗲𝗻 𝗡𝗶𝗹𝘂 𝗕𝗼𝘁 𝗠𝗱 💃
+ Alex max bot md 
    ____                           _   _ _ _       
   / __ \                         | \ | (_) |      
  | |  | |_   _  ___  ___ _ __    |  \| |_| |_   _ 
@@ -22,9 +22,9 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94767438882'] 
+global.owner = ['201023325269'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Alex max ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
@@ -34,11 +34,11 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  'alex max' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  'Salah' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  'عمك salah' 
 //👇 Sticker Author Name
 global.author =  '_JANIYA_' 
 //👇 Kick And Auto Delete Group link Senders
@@ -61,15 +61,15 @@ global.ADD_MSG = '*✅ Success add Group*'
 //👇 Your Kick Massage 
 global.KICK_MSG = '*✅ Success Remove from Group*' 
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '```💿يتم تحميل الاغنيه لحظه ي مركبه...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...```'
+global.SONG_UP = '```يتم رفع الاغنيه الى السيرفر لحظه ...```'
 //👇 212 Number block
 global.NUMBER_212_BLOCK = 'true'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|🪄'
-//👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
+//👇 Your time zone ( 8:07 )
+global.TIME_ZONE = process.env.TIME_ZONE || 'Africa/Egypt'
 //👇 Removebg Api key
 global.REMOVE_BG_API = ''
 //👇 Pron Video Download 
@@ -105,19 +105,19 @@ global.NO_BLOCK = ["94767438882"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94767438882'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94767438882'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Janiya_' // Your name ඔබේ නම 
+global.pemilik = ['201023325269'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['201023325269'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'salah' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
 
 
 global.mess = {
-    success: '✅ Done!',
-    admin: '*Only admins can use this command !*',
+    success: '✅ تم!',
+    admin: '*فقط المشرفين يلي يقدرون يستخدموا هذا ي عاطل !*',
     botAdmin: '*Please admin the bot first !*',
-    owner: '*Sorry, this command is only for the owner !*',
+    owner: '*كل زق هذا م يشتغل الا معي !*',
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
